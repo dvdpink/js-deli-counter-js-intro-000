@@ -1,4 +1,4 @@
 function takeANumber (line, name) {
-  var placeInline = line++
-  return `Welcome, Ada. You are number ${placeInline} in line.`
+  
+  return `Welcome, Ada. You are number ${line++} in line.`
 }
